@@ -1,0 +1,1 @@
+safemath : pour éviter l'overlfow de chiffres (quand un chiffre dépasse, ex: uint8)
